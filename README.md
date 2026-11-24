@@ -1,5 +1,7 @@
 # Options Flow & Market Data MCP Starter
 
+[![Tradytics MCP connector](https://glama.ai/mcp/connectors/com.tradytics/market-data/badges/score.svg)](https://glama.ai/mcp/connectors/com.tradytics/market-data)
+
 Ready-to-run MCP configs, prompts, and Python scripts for connecting **Claude**, **Claude Code**, **ChatGPT**, **Cursor**, and **Codex** to live US market data through [Tradytics](https://tradytics.com/).
 
 - **Hosted MCP Server:** `https://tradytics.com/mcp` (Streamable HTTP + OAuth)
